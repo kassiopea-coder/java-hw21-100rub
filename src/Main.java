@@ -1,9 +1,9 @@
 public class Main {
     public static void main(String[] args) {
 
-        int startBalanceInKopecks = 100_00; //в копейках
+        int startBalanceInKopecks = 100_00; // в копейках
         int refillInKopecks = 1000_00; //в копейках
-        int refillClientInKopecks = 100_00; //в копейках
+        int refillClientInKopecks = 1100_00; //в копейках
         int startBonus = 100_00; //в копейках
         int bonusInKopecks = 0;
         int totalBalance;
